@@ -9,7 +9,7 @@ npm install
 ### Uruchomienie serwera deweloperskigo
 
 ```shell
-nmp start
+npm start
 ```
 
 ### Budowanie w trybie produkcyjnym
